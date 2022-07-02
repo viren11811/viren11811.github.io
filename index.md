@@ -2,7 +2,7 @@
 
 If you want to see live matches, go here
 
-https://chess24.com/
+([https://chess24.com/])
 
 ### If you want to see live commentary
 
